@@ -10,11 +10,13 @@
   <summary>백준 문제풀이</summary>
   <div markdown="1">
     
-  | Problem   | Title             | level   | solution / language                                                                             |
+  | Problem   | Title             | level             | solution / language                                                                             |
   |-----------|-------------------|:-------:|-------------------------------------------------------------------------------------------------|
-  | 1149      | RGB 거리          | S1      |[1149풀이](https://github.com/kjy4926/coding-test-study/blob/main/kotlin/src/B1149.kt) / kotlin  |
-  | 3613      | Java vs C++       | S3      |[3613풀이](https://github.com/kjy4926/coding-test-study/blob/main/kotlin/src/B1149.kt) / kotlin  |
-    
+  | 1149      | RGB 거리          | S1                |[1149풀이](https://github.com/kjy4926/coding-test-study/blob/main/kotlin/src/B1149.kt) / kotlin  |
+  | 3613      | Java vs C++       | S3                |[3613풀이](https://github.com/kjy4926/coding-test-study/blob/main/kotlin/src/B1149.kt) / kotlin  |
+  | 14501    | 퇴사 1       | S3                |[14501풀이](https://github.com/kjy4926/coding-test-study/blob/main/kotlin/src/B14501.kt) / kotlin  |
+  | 15486    | 퇴사 2       | G5                |[15486풀이](https://github.com/kjy4926/coding-test-study/blob/main/kotlin/src/B15486.kt) / kotlin  |
+
   </div>
 </details>
 
